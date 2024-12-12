@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "連續矩陣相乘最佳順序演算法", "連續矩陣相乘最佳順序演算法\連續矩陣相乘最佳順序演算法.vcxproj", "{2FE37AFD-9F4B-4CE2-B567-638A239DB55E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FE37AFD-9F4B-4CE2-B567-638A239DB55E}.Debug|x64.ActiveCfg = Debug|x64
+		{2FE37AFD-9F4B-4CE2-B567-638A239DB55E}.Debug|x64.Build.0 = Debug|x64
+		{2FE37AFD-9F4B-4CE2-B567-638A239DB55E}.Debug|x86.ActiveCfg = Debug|Win32
+		{2FE37AFD-9F4B-4CE2-B567-638A239DB55E}.Debug|x86.Build.0 = Debug|Win32
+		{2FE37AFD-9F4B-4CE2-B567-638A239DB55E}.Release|x64.ActiveCfg = Release|x64
+		{2FE37AFD-9F4B-4CE2-B567-638A239DB55E}.Release|x64.Build.0 = Release|x64
+		{2FE37AFD-9F4B-4CE2-B567-638A239DB55E}.Release|x86.ActiveCfg = Release|Win32
+		{2FE37AFD-9F4B-4CE2-B567-638A239DB55E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {558A451A-C9A6-48DA-AEA8-280831AC6C97}
+	EndGlobalSection
+EndGlobal
